@@ -1,1 +1,1 @@
-The problem for this project was the same as the first project. However, we were required to use implicit difference to solve the problem. It was
+The problem for this project was the same as the first project. However, we were required to use implicit difference to solve the problem. To use implicit difference, we needed to solve the inverse of a matrix, which was hard to be parallel, and we were required not to use packages. So I used Jacobi Iteration method to solve the inverse of the matrix, and the result was fairly good.
